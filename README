@@ -1,7 +1,8 @@
-# README for openlava 1.0 (2011)
+# README for openlava 2.0 (2020)
 # Copyright (C) 2011 - 2012  David Bigagli
 # Copyright (C) 2007 Platform Computing Inc
-#
+# Copyright (C) 2020 Yong-Gwi Cho
+
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of version 2 of the GNU General Public License as
 # published by the Free Software Foundation.
@@ -15,9 +16,6 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 #
-
-Please vistus at: wwww.openlava.org
-Find the source code at: https://github.com/openlava
 
 Thank you for your interest in openlava.
 
